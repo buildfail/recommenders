@@ -4,3 +4,4 @@
 #   spark: reco-utils[spark]
 black>=18.6b4,<21
 pytest>=3.6.4
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
